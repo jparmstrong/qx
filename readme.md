@@ -23,3 +23,7 @@ Copy `qservers.txt.skeleton` to `qservers.txt`. Update it with the servers you w
 Run `qx` and select a server from the list.
 
 To execute against the server run, `x)command` or `.x.e "command"`
+
+## Screencast
+
+[![asciicast](https://asciinema.org/a/NXmUwk4sLFjOwuXVtFmq27Z42.svg)](https://asciinema.org/a/NXmUwk4sLFjOwuXVtFmq27Z42)
