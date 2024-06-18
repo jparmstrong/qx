@@ -7,6 +7,7 @@ This experimental script provides the ability to connect to a remote kdb/q sessi
 Prerequisites:
 - kdb+/q (obviously)
 - fzf
+- xargs >= 4.7.0 (requires --open-tty)
 
 Add the following to your `~/.bashrc`:
 
